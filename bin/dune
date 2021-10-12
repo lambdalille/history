@@ -1,0 +1,10 @@
+(executable
+ (name history)
+ (promote (until-clean))
+ (libraries
+  preface
+  yocaml
+  yocaml_unix
+  yocaml_yaml
+  yocaml_jingoo
+  yocaml_markdown))
