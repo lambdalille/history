@@ -1,0 +1,45 @@
+opam-version: "2.0"
+version: "dev"
+
+synopsis: "Static page generator for LambdaLille History"
+
+maintainer: [
+  "Xavier Van de Woestyne <xaviervdw@gmail.com>"
+  "Thomas Haesslé <thomas.haessle@gmail.com>"
+]
+
+authors: [
+  "Xavier Van de Woestyne <xaviervdw@gmail.com>"
+]
+
+license: "GPL-3.0-or-later"
+
+homepage: "https://github.com/lambdalille/history"
+dev-repo: "git+https://github.com/lambdalille/history.git"
+bug-reports: "https://github.com/lambdalille/history/issues"
+
+build: [
+  [ "dune" "subst" ]
+  [ "dune" "build" "-p" name "-j" jobs ]
+  [ "dune" "runtest" "-p" name ] {with-test}
+  [ "dune" "build" "@doc" "-p" name ] {with-doc}
+]
+
+depends: [
+  "ocaml" { >= "4.12.0" }
+  "dune" { >= "2.9.1" }
+  "preface" {>= "0.1.0" }
+  "yocaml" {pinned}
+  "yocaml_unix" {pinned}
+  "yocaml_yaml" {pinned}
+  "yocaml_markdown" {pinned}
+  "yocaml_jingoo" {pinned}
+]
+
+pin-depends: [
+  ["yocaml.dev" "git://github.com/xhtmlboi/yocaml.git"]
+  ["yocaml_unix.dev" "git://github.com/xhtmlboi/yocaml.git"]
+  ["yocaml_yaml.dev" "git://github.com/xhtmlboi/yocaml.git"]
+  ["yocaml_markdown.dev" "git://github.com/xhtmlboi/yocaml.git"]
+  ["yocaml_jingoo.dev" "git://github.com/xhtmlboi/yocaml.git"]
+]

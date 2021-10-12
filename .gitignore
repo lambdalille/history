@@ -10,10 +10,12 @@
 
 # ocamlbuild working directory
 _build/
+_site/
 
 # ocamlbuild targets
 *.byte
 *.native
+*.exe
 
 # oasis generated files
 setup.data
