@@ -1,0 +1,10 @@
+firstname: Xavier
+lastname: Van de Woestyne
+main_link: https://twitter.com/vdwxv
+links:
+  - name: Twitter
+    href: https://twitter.com/vdwxv
+  - name: Website
+    href: https://xvw.github.io
+  - name: Github
+    href: https://github.com/xvw

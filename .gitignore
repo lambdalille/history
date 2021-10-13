@@ -11,6 +11,7 @@
 # ocamlbuild working directory
 _build/
 _site/
+_markdown/
 
 # ocamlbuild targets
 *.byte

@@ -1,7 +1,7 @@
 type 'a talk = private
   { title : string
   ; speakers : 'a list
-  ; abstract : string
+  ; abstract : string option
   ; tags : string list
   ; lang : [ `French | `English ]
   ; video_link : string option

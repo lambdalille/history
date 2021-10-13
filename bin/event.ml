@@ -128,3 +128,35 @@ let arrow (module Validable : Yocaml.Metadata.VALIDABLE) name =
   let+ deps, event = fetch (module Validable) name in
   Build.make deps (fun () -> return (event, ""))
 ;;
+
+module Collection = struct
+  type t = Complete.t list
+
+  let make ?(decreasing = true) events =
+    List.sort
+      (fun a b ->
+        let a_date = a.date
+        and b_date = b.date in
+        let r = Yocaml.Date.compare a_date b_date in
+        if decreasing then ~-r else r)
+      events
+  ;;
+
+  let arrow (module Validable : Yocaml.Metadata.VALIDABLE) events =
+    let open Yocaml in
+    let+ deps, events = fetch_list (module Validable) events in
+    Build.make deps (fun () -> return (make events, ""))
+  ;;
+
+  let inject
+      (type a)
+      (module D : Yocaml.Key_value.DESCRIBABLE with type t = a)
+      events
+    =
+    let open Preface.Fun in
+    [ D.(
+        ( "events"
+        , list $ List.map (object_ % Complete.inject (module D)) events ))
+    ]
+  ;;
+end

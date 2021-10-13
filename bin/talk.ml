@@ -4,7 +4,7 @@ open Util
 type 'a talk =
   { title : string
   ; speakers : 'a list
-  ; abstract : string
+  ; abstract : string option
   ; tags : string list
   ; lang : [ `French | `English ]
   ; video_link : string option
@@ -42,7 +42,7 @@ module Complete = struct
     Describable.
       [ "title", string title
       ; "speakers", list speakers
-      ; "abstract", string abstract
+      ; "abstract", Option.fold ~none:null ~some:string abstract
       ; "tags", list (List.map (string % tokenize) tags)
       ; "lang", string $ lang_to_str lang
       ; "video_link", Option.fold ~none:null ~some:string video_link
@@ -102,8 +102,8 @@ module Raw = struct
           make
           <$> required_assoc string "title" obj
           <*> required_assoc (list_of string) "speakers" obj
-          <*> required_assoc string "abstract" obj
-          <*> required_assoc (list_of string) "tags" obj
+          <*> optional_assoc string "abstract" obj
+          <*> optional_assoc_or ~default:[] (list_of string) "tags" obj
           <*> required_assoc (lang (module Validable)) "lang" obj
           <*> optional_assoc string "video_link" obj
           <*> optional_assoc string "support_link" obj

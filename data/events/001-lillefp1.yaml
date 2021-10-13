@@ -1,0 +1,13 @@
+name: "LilleFP1 - parlons fonctionnel"
+date: "2016-07-12 19:30:00"
+timezone: CET
+is_online: false
+place: derniercri-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/fr-FR/Lille-FP/events/226004908/
+talks:
+  - programmation-fonctionnelle-js
+  - mooc-ocaml
+  - async-scala
+  - elixir-hype

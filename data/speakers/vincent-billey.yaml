@@ -1,0 +1,10 @@
+firstname: Vincent
+lastname: Billey
+main_link: http://twitter.com/Fenntasy
+links:
+  - name: Twitter
+    href: http://twitter.com/Fenntasy
+  - name: Website
+    href: https://vincent.billey.me
+  - name: Github
+    href: https://github.com/Fenntasy

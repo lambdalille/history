@@ -1,0 +1,11 @@
+name: "LilleFP2 >< Lille |> Elixir"
+date: "2016-11-28 19:00:00"
+timezone: CET
+is_online: false
+place: derniercri-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/235757320/
+talks:
+  - elixir-is-not-ruby
+  - typesafe-routing

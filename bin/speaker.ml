@@ -3,14 +3,15 @@ open Yocaml.Util
 type t =
   { firstname : string
   ; lastname : string
-  ; bio : string
+  ; bio : string option
   ; pronouns : string option
   ; email : string option
+  ; main_link : string option
   ; links : Link.t list
   }
 
-let make firstname lastname bio pronouns email links =
-  { firstname; lastname; bio; pronouns; email; links }
+let make firstname lastname bio pronouns email main_link links =
+  { firstname; lastname; bio; pronouns; email; main_link; links }
 ;;
 
 let from_string (module Validable : Yocaml.Metadata.VALIDABLE) = function
@@ -24,9 +25,10 @@ let from_string (module Validable : Yocaml.Metadata.VALIDABLE) = function
         make
         <$> required_assoc string "firstname" obj
         <*> required_assoc string "lastname" obj
-        <*> required_assoc string "bio" obj
+        <*> optional_assoc string "bio" obj
         <*> optional_assoc string "pronouns" obj
         <*> optional_assoc string "email" obj
+        <*> optional_assoc string "main_link" obj
         <*> optional_assoc_or
               ~default:[]
               (list_of $ Link.from (module Validable))
@@ -50,17 +52,18 @@ let smallname firstname lastname =
 let inject
     (type a)
     (module Describable : Yocaml.Key_value.DESCRIBABLE with type t = a)
-    { firstname; lastname; bio; pronouns; email; links }
+    { firstname; lastname; bio; pronouns; email; main_link; links }
   =
   Describable.
     [ "firstname", string $ sanitize_name firstname
     ; "lastname", string $ sanitize_name lastname
     ; "fullname", string $ fullname firstname lastname
     ; "smallname", string $ smallname firstname lastname
-    ; "bio", string bio
+    ; "bio", Option.fold ~none:null ~some:string bio
     ; "avatar", string $ Gravatar.from_email email
     ; "pronouns", Option.fold ~none:null ~some:string pronouns
     ; "email", Option.fold ~none:null ~some:string email
+    ; "main_link", Option.fold ~none:null ~some:string main_link
     ; "links", list $ List.map (Link.inject (module Describable)) links
     ]
 ;;

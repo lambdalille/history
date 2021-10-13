@@ -35,3 +35,16 @@ val arrow
   :  (module Yocaml.Metadata.VALIDABLE)
   -> string
   -> (unit, Complete.t * string) Yocaml.Build.t Yocaml.t
+
+module Collection : sig
+  type t = Complete.t list
+
+  val make : ?decreasing:bool -> t -> t
+
+  val arrow
+    :  (module Yocaml.Metadata.VALIDABLE)
+    -> string list
+    -> (unit, Complete.t list * string) Yocaml.Build.t Yocaml.t
+
+  include Yocaml.Metadata.INJECTABLE with type t := t
+end

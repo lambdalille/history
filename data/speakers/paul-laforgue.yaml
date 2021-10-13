@@ -1,0 +1,8 @@
+firstname: Paul
+lastname: Laforgue
+main_link: https://twitter.com/lowphink
+links:
+  - name: Twitter
+    href: http://twitter.com/lowphink
+  - name: Github
+    href: https://github.com/phink

@@ -1,0 +1,10 @@
+firstname: Thomas
+lastname: Gautier
+main_link: https://twitter.com/aryko
+links:
+  - name: Twitter
+    href: https://twitter.com/aryko
+  - name: Website
+    href: https://gautier.gg/
+  - name: Github
+    href: https://github.com/tgautier

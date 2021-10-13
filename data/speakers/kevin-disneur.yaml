@@ -1,0 +1,10 @@
+firstname: Kevin
+lastname: Disneur
+main_link: https://twitter.com/kdisneur
+links:
+  - name: Twitter
+    href: https://twitter.com/kdisneur
+  - name: Website
+    href: https://kevin.disneur.me/
+  - name: Github
+    href: https://github.com/kdisneur

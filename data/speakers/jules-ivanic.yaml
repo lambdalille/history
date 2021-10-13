@@ -1,0 +1,12 @@
+firstname: Jules
+lastname: Ivanic
+main_link: https://twitter.com/guizmaii
+links:
+  - name: Twitter
+    href: https://twitter.com/guizmaii
+  - name: Website
+    href: https://blog.jules-ivanic.com/#/
+  - name: Github
+    href: https://github.com/guizmaii
+  - name: Linkedin
+    href: https://www.linkedin.com/in/jules-ivanic/
