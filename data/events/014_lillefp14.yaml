@@ -1,0 +1,11 @@
+name: "LilleFP14, du Rust et Nix"
+date: "2019-04-25 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/260541114/
+talks:
+  - rust-neon
+  - nix

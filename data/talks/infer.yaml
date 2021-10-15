@@ -1,0 +1,8 @@
+title: Trouver des Bugs inter-procéduraux à grande échelle avec Infer
+speakers:
+  - jules-villard
+lang: fr
+support_link: https://github.com/lambdalille/talks/blob/master/mirror/lillefp9-infer.pdf
+other_links:
+  - name: Présentation au FOSDEM
+    href: https://fosdem.org/2018/schedule/event/code_finding_inter_procedural_bugs_at_scale_with_infer_static_analyzer/

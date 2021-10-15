@@ -1,0 +1,8 @@
+title: "The elevator problem: A brief contextualized introduction to finite state machines in a type-safe context"
+speakers:
+  - xavier-van-de-woestyne
+lang: fr
+support_link: http://xvw.github.io/talks/breizhcamp-tep/slides.pdf
+other_links:
+  - name: Talk au Breizhcamp
+    href: https://www.youtube.com/watch?v=jjpjieU55cg

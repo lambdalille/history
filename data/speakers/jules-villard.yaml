@@ -1,0 +1,8 @@
+firstname: Jules
+lastname: Villard
+main_link: http://jules.pauvre.org/
+links:
+  - name: Website
+    href: http://jules.pauvre.org/
+  - name: Github
+    href: https://github.com/jvillard

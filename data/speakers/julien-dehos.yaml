@@ -1,0 +1,10 @@
+firstname: Julien
+lastname: Dehos
+main_link: https://juliendehos.gitlab.io/
+links:
+  - name: Website
+    href: https://juliendehos.gitlab.io/
+  - name: Github
+    href: https://github.com/juliendehos
+  - name: Gitlab
+    href: https://gitlab.com/juliendehos

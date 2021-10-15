@@ -1,0 +1,11 @@
+name: "LilleFP12, le tant attendu Haskell s'invite à LilleFP !"
+date: "2019-02-27 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/258682124/
+talks:
+  - haskell-pbt
+  - haskell-iso

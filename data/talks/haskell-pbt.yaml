@@ -1,0 +1,8 @@
+title: "Tests de propriétés : Ecrire moins de tests, trouver plus de bugs"
+speakers:
+  - julien-debon
+lang: fr
+support_link: https://docs.google.com/presentation/d/1SoBSu6ijnlt3nS694-I3OTgC6LyoiDhAae8Ff2KQMes/edit#slide=id.p
+other_links:
+  - name: Code
+    href: https://github.com/Sir4ur0n/property-based-testing-talk-support

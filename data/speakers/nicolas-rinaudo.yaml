@@ -1,0 +1,10 @@
+firstname: Nicolas
+lastname: Rinaudo
+main_link: https://twitter.com/NicolasRinaudo
+links:
+  - name: Twitter
+    href: https://twitter.com/NicolasRinaudo
+  - name: Website
+    href: https://nrinaudo.github.io/
+  - name: Github
+    href: https://github.com/nrinaudo

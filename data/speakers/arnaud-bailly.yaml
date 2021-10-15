@@ -1,0 +1,12 @@
+firstname: Arnaud
+lastname: Bailly
+main_link: https://twitter.com/dr_c0d3
+links:
+  - name: Twitter
+    href: https://twitter.com/dr_c0d3
+  - name: Website
+    href: http://drcode.io/
+  - name: Github
+    href: https://github.com/abailly
+  - name: Blog
+    href: https://abailly.github.io/

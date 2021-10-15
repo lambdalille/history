@@ -1,5 +1,9 @@
 # Lambda Lille : historique des présentations
 
+> Attention, ce document est généré via les données qui se trouvent
+> dans le répertoire [history](https://github.com/lambdalille/history).
+> Il ne faut donc pas modifier ce fichier !
+
 {%- for event in events %}
 
 ## {{ event.name }}
@@ -22,8 +26,8 @@
   {%- endif -%}
   {%- if not loop.last -%}, {% else %}.{% endif -%}
   {% endfor %}  
-  {% if talk.video_link -%}[Vidéo]({{talk.video_link}}){%- endif %}
-  {% if talk.support_link -%}[Support]({{talk.support_link}}){%- endif %}
+  {% if talk.video_link -%}[Vidéo]({{talk.video_link}}){%- endif -%}
+  {% if talk.support_link %} [Support]({{talk.support_link}}){%- endif %}
 
 {% endfor %}
 {% endfor %}

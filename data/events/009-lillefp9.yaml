@@ -1,0 +1,11 @@
+name: "LilleFP9, Elm et Infer"
+date: "2018-03-20 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/248092848/
+talks:
+  - spa-elm
+  - infer

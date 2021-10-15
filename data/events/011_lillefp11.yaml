@@ -1,0 +1,12 @@
+name: "LilleFP11, la rentrée des champions"
+date: "2018-09-20 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/254473617/
+talks:
+  - buzzword-monad
+  - ocaml-effect-implicits
+  - intro-julia

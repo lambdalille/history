@@ -1,0 +1,10 @@
+firstname: Mathieu
+lastname: Besançon
+main_link: https://twitter.com/matbesancon
+links:
+  - name: Twitter
+    href: https://twitter.com/matbesancon
+  - name: Website
+    href: http://matbesancon.github.io/
+  - name: Github
+    href: https://github.com/matbesancon

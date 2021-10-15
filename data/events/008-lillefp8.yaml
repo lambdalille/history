@@ -1,0 +1,11 @@
+name: "LilleFP8, La blockchain et les tests dirigés par les propriétés"
+date: "2018-01-08 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/246212553/
+talks:
+  - chaines-transactions-blockchain
+  - scalacheck

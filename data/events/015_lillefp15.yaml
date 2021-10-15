@@ -1,0 +1,11 @@
+name: "LilleFP15, FP pure & applications multiplateformes avec Reason-React-Native"
+date: "2019-05-21 19:00:00"
+timezone: CET
+is_online: false
+place: scaleway-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/261321061/
+talks:
+  - pure-fp-what
+  - reason-react-native

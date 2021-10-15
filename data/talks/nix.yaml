@@ -1,0 +1,8 @@
+title: Un aperçu de l'écosystème Nix
+speakers:
+  - julien-dehos
+lang: fr
+support_link: https://juliendehos.gitlab.io/talk-2019-lillefp-nix/
+other_links:
+  - name: Code
+    href: https://gitlab.com/juliendehos/talk-2019-lillefp-nix

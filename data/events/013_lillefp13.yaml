@@ -1,0 +1,11 @@
+name: "LilleFP13, GADTs et types dépendants !"
+date: "2019-03-26 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/259496632/
+talks:
+  - elevator-problem
+  - typed-21-century

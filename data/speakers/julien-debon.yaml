@@ -1,0 +1,10 @@
+firstname: Julien
+lastname: Debon
+main_link: https://twitter.com/Sir4ur0n
+links:
+  - name: Twitter
+    href: https://twitter.com/Sir4ur0n
+  - name: Website
+    href: https://sir4ur0n.github.io/
+  - name: Github
+    href: https://github.com/sir4ur0n
