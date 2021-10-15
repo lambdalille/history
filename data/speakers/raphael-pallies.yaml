@@ -1,0 +1,10 @@
+firstname: Raphaël
+lastname: Palliès
+main_link: https://twitter.com/fpilot333
+links:
+  - name: Twitter
+    href: https://twitter.com/fpilot333
+  - name: Website
+    href: https://falconpilot.github.io/
+  - name: Github
+    href: https://github.com/FalconPilot

@@ -1,0 +1,10 @@
+firstname: Antonin
+lastname: Carette
+main_link: https://twitter.com/k0pernicus
+links:
+  - name: Twitter
+    href: https://twitter.com/k0pernicus
+  - name: Website
+    href: https://carette.xyz/
+  - name: Github
+    href: https://github.com/k0pernicus

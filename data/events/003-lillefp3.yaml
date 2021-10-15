@@ -1,0 +1,14 @@
+name: "LilleFP3 >< Rust Lille"
+date: "2017-02-23 18:45:00"
+timezone: CET
+is_online: false
+place: derniercri-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/237497716/
+talks:
+  - mozilla-foundation
+  - intro-rust
+  - snatch
+  - intro-elm
+  - elm-time

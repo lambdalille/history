@@ -1,0 +1,10 @@
+firstname: Quentin
+lastname: Lamamy
+main_link: https://twitter.com/quentin_lamamy/
+links:
+  - name: Twitter
+    href: https://twitter.com/quentin_lamamy/
+  - name: Linkedin
+    href: https://www.linkedin.com/in/quentin-lamamy
+  - name: Mozilla reps
+    href: https://mozilla.github.io/reps-archive/u/quentin_lamamy/index.html

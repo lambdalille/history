@@ -1,0 +1,11 @@
+name: "LilleFP6, OCaml, ReasonML et BuckleScript"
+date: "2017-09-18 18:45:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/242380047/
+talks:
+  - intro-ocaml
+  - reasonml-bucklescript

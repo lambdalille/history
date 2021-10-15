@@ -1,0 +1,11 @@
+name: "LilleFP7, Elixir"
+date: "2017-11-16 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/244510772/
+talks:
+  - elixir-bitstring
+  - phoenix-is-not-your-api

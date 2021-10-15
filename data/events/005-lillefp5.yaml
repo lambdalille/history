@@ -1,0 +1,11 @@
+name: "LilleFP5, Go! et Scala"
+date: "2017-06-22 19:30:00"
+timezone: CET
+is_online: false
+place: derniercri-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/240476119/
+talks:
+  - go-deficient
+  - scala-error-cats

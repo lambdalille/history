@@ -1,0 +1,11 @@
+name: "LilleFP4, Alpaca et Scala"
+date: "2017-05-04 19:30:00"
+timezone: CET
+is_online: false
+place: derniercri-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/fr-FR/Lille-FP/events/238540711/
+talks:
+  - alpaca
+  - api-implicits

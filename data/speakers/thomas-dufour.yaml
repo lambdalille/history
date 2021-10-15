@@ -1,0 +1,8 @@
+firstname: Thomas
+lastname: Dufour
+main_link: https://twitter.com/chwthewke
+links:
+  - name: Twitter
+    href: https://twitter.com/chwthewke
+  - name: Github
+    href: https://github.com/chwthewke/

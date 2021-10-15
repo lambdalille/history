@@ -1,0 +1,10 @@
+firstname: Thomas
+lastname: Haessle
+main_link: https://twitter.com/oteku
+links:
+  - name: Twitter
+    href: https://twitter.com/oteku
+  - name: Website
+    href: https://oteku.github.io/
+  - name: Github
+    href: https://github.com/oteku
