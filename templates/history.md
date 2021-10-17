@@ -27,7 +27,7 @@
   {%- if not loop.last -%}, {% else %}.{% endif -%}
   {% endfor %}  
   {% if talk.video_link -%}[Vidéo]({{talk.video_link}}){%- endif -%}
-  {% if talk.support_link %} [Support]({{talk.support_link}}){%- endif %}
+  {% if talk.support_link %}{%- if talk.video_link %} - {% endif -%}[Support]({{talk.support_link}}){%- endif %}
 
 {% endfor %}
 {% endfor %}

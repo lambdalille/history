@@ -1,0 +1,8 @@
+title: "Monade IO et gestion des erreurs : des Exceptions à Cats MTL"
+speakers:
+  - guillaume-bogard
+lang: fr
+support_link: https://github.com/gbogard/cats-mtl-talk/blob/master/slides.pdf
+other_links:
+  - name: Code
+    href: https://github.com/gbogard/cats-mtl-talk

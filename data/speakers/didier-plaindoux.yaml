@@ -1,0 +1,10 @@
+firstname: Didier
+lastname: Plaindoux
+main_link: https://twitter.com/dplaindoux
+links:
+  - name: Twitter
+    href: https://twitter.com/dplaindoux
+  - name: Website
+    href: http://www.fungus.fr/
+  - name: Github
+    href: https://github.com/d-plaindoux

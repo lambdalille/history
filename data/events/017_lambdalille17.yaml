@@ -1,0 +1,11 @@
+name: "Lambda Lille 17 : Differentiation algorithmique et Creation d'un langage en JS"
+date: "2020-01-16 19:00:00"
+timezone: CET
+is_online: false
+place: epitech-lille
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/267489377/
+talks:
+  - algo-diff
+  - lang-compil

@@ -1,0 +1,8 @@
+title: Étude et compilation d'un langage fonctionnel
+speakers:
+  - didier-plaindoux
+lang: fr
+support_link: http://d.plaindoux.free.fr/talks/lambdalille/mfun/index.html#/
+other_links:
+  - name: Code
+    href: https://github.com/d-plaindoux/mfun

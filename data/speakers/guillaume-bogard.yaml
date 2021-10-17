@@ -1,0 +1,10 @@
+firstname: Guillaume
+lastname: Bogard
+main_link: https://twitter.com/bogardguillaume
+links:
+  - name: Twitter
+    href: https://twitter.com/bogardguillaume
+  - name: Website
+    href: https://guillaumebogard.dev/
+  - name: Github
+    href: https://github.com/gbogard
