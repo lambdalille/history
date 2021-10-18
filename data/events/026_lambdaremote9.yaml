@@ -1,0 +1,10 @@
+name: "λ · remote 8 : une API typesafe en Haskell et les schémas de récursivité en Scala"
+date: "2021-01-14 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/275535945/
+talks:
+  - servant
+  - rec-schemes

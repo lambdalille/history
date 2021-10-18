@@ -1,0 +1,10 @@
+firstname: Denis
+lastname: Merigoux
+main_link: https://twitter.com/DMerigoux
+links:
+  - name: Twitter
+    href: https://twitter.com/DMerigoux
+  - name: Website
+    href: https://merigoux.ovh/
+  - name: Github
+    href: https://github.com/denismerigoux

@@ -1,0 +1,10 @@
+name: "λ · remote 10 : des Zippers, des types et Catala"
+date: "2021-02-11 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/275961019/
+talks:
+  - zipper
+  - catala

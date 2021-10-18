@@ -1,0 +1,9 @@
+name: "λ · remote 11 : bringing an OCaml to the Erlang VM"
+date: "2021-03-24 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/275980753/
+talks:
+  - caramel

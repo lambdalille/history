@@ -1,0 +1,10 @@
+name: "λ · remote 12 : Kotlin pour la FP, Arrow & CRDT"
+date: "2021-04-15 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/276820419/
+talks:
+  - kotlin-fp-arrow
+  - crdt

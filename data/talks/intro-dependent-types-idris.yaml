@@ -1,0 +1,8 @@
+title: Introduction aux types dépendant via Idris
+speakers:
+  - valentin-robert
+lang: fr
+video_link: https://www.youtube.com/watch?v=pIUgDxqgtQo
+other_links:
+  - name: Code
+    href: https://github.com/Ptival/presentations/tree/master/2021-05-types

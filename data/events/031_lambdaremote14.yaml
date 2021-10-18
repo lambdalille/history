@@ -1,0 +1,10 @@
+name: "λ · remote 14 : Rust et Elm (à la LilleFP 3)"
+date: "2021-06-17 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/278388095/
+talks:
+  - functional-elm
+  - rustbotic

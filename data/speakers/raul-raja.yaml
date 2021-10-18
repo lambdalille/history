@@ -1,0 +1,10 @@
+firstname: Raúl
+lastname: Raja
+main_link: https://www.twitter.com/raulraja
+links:
+  - name: Twitter
+    href: https://www.twitter.com/raulraja
+  - name: 47Deg
+    href: https://www.47deg.com/team/raul/
+  - name: Github
+    href: https://www.github.com/raulraja

@@ -1,0 +1,10 @@
+firstname: Caroline
+lastname: Gaudreau
+main_link: https://twitter.com/akhesaCaro
+links:
+  - name: Twitter
+    href: https://twitter.com/akhesaCaro
+  - name: Linkedin
+    href: https://www.linkedin.com/in/gaudreau-caroline-bb7238a4/
+  - name: Github
+    href: https://github.com/akhesaCaro

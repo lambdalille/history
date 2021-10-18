@@ -1,0 +1,10 @@
+firstname: Valentin
+lastname: Robert
+main_link: https://twitter.com/ptival
+links:
+  - name: Twitter
+    href: https://twitter.com/ptival
+  - name: Website
+    href: https://ptival.github.io/
+  - name: Github
+    href: https://github.com/Ptival

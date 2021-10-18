@@ -1,0 +1,10 @@
+firstname: Pierrick
+lastname: Mirabel
+main_link: https://twitter.com/PierrickMirabel
+links:
+  - name: Twitter
+    href: https://twitter.com/PierrickMirabel
+  - name: Linkedin
+    href: https://www.linkedin.com/in/pmirabel/
+  - name: Gitlab
+    href: https://gitlab.com/pmirabel

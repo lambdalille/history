@@ -1,0 +1,9 @@
+title: Catala, un langage fonctionnel dédié pour formaliser le droit fiscal
+speakers:
+  - denis-merigoux
+lang: fr
+video_link: https://www.youtube.com/watch?v=vaXGgrUHtuk
+support_link: https://github.com/lambdalille/talks/blob/master/mirror/catala.pdf
+other_links:
+  - name: Site web de Catala
+    href: https://catala-lang.org/

@@ -1,0 +1,10 @@
+firstname: Leandro
+lastname: Ostera
+main_link: https://twitter.com/leostera
+links:
+  - name: Twitter
+    href: https://twitter.com/leostera
+  - name: Website
+    href: https://abstractmachines.dev/
+  - name: Github
+    href: https://github.com/ostera

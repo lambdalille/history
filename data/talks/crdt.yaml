@@ -1,0 +1,9 @@
+title: A gentle introduction to Conflict-free replicated data types
+speakers:
+  - guillaume-bogard
+lang: fr
+video_link: https://www.youtube.com/watch?v=7XNXUsZ2uHI
+support_link: https://crdt.guillaumebogard.dev/slides/
+other_links:
+  - name: Site compagnon
+    href: https://crdt.guillaumebogard.dev/

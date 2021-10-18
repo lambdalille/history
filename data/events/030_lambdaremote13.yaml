@@ -1,0 +1,9 @@
+name: "λ · remote 13 : introduction aux types dépendant via Idris"
+date: "2021-05-12 19:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/277814368/
+talks:
+  - intro-dependent-types-idris

@@ -1,0 +1,9 @@
+title: "Caramel: bringing an OCaml to the Erlang VM"
+speakers:
+  - leandro-ostera
+lang: en
+video_link: https://www.youtube.com/watch?v=dxo8GirFSkY
+support_link: https://slides.com/ostera/caramel-lang-v01/
+other_links:
+  - name: Caramel website
+    href: https://caramel.run/
