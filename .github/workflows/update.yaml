@@ -1,0 +1,32 @@
+name: Update history
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build
+        uses: ocaml/setup-ocaml@v2
+        with:
+          ocaml-compiler: 4.12.x
+          opam-depext-flags: --with-test
+
+      - run: opam install . --deps-only --with-doc --with-test
+      - run: opam install yocaml
+      - run: opam install yocaml_unix yocaml_yaml yocaml_markdown yocaml_jingoo
+      - run: opam exec -- dune exec bin/history.exe
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./_markdown/
+          external_repository: lambdalille/talks
+          publish_branch: master
+          enable_jekyll: false

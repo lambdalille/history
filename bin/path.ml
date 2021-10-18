@@ -1,7 +1,7 @@
 open Yocaml
 
 let target = "_site/"
-let history_target = "_markdown/history.md"
+let history_target = "_markdown/README.md"
 let css_repository = "css/"
 let talks_repository = "data/talks"
 let speakers_repository = "data/speakers"
