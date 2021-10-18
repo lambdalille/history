@@ -1,0 +1,9 @@
+title: Coder un streamer video en 135 lignes de Haskell et en 1 week-end
+speakers:
+  - julien-dehos
+lang: fr
+video_link: https://youtu.be/6CO98XBsNiY?t=4355
+support_link: https://juliendehos.gitlab.io/talk-2020-lambdalille-covideo19/index.pdf
+other_links:
+  - name: Code
+    href: https://gitlab.com/juliendehos/talk-2020-lambdalille-covideo19

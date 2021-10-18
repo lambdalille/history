@@ -12,6 +12,7 @@
 {% if event.place -%}
 à {% if event.place.website %}[{{ event.place.name }}]({{ event.place.website }}){% else %}{{ event.place.name }}{% endif %}
 (_{{ event.place.address  }}_)
+{%- else -%}{%- if event.is_online -%}_Online_{%- endif -%}
 {%- endif %}
 
 **Lien de l'événement:** [{{ event.link.name }}]({{ event.link.href  }})

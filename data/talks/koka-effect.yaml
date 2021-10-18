@@ -1,0 +1,9 @@
+title: 'Effets Algébriques pour écrire de "vrais logiciels"'
+speakers:
+  - xavier-van-de-woestyne
+lang: fr
+video_link: https://youtu.be/BT2e-DkcVQo?t=1770
+support_link: http://xvw.github.io/talks/lillefp-remote-effect/slides.pdf
+other_links:
+  - name: Billet de blog
+    href: https://xvw.github.io/longs/introduction_algebraic_effects.html

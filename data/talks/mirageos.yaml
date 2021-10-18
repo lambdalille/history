@@ -1,0 +1,9 @@
+title: Découverte de l'unikernel MirageOS
+speakers:
+  - romain-calascibetta
+lang: fr
+video_link: https://youtu.be/fpGmsIoDU0k?t=3794
+support_link: https://github.com/lambdalille/talks/blob/master/mirror/MirageOS.pdf
+other_links:
+  - name: MirageOS
+    href: https://mirage.io/

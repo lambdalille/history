@@ -1,0 +1,9 @@
+title: Free Monads
+speakers:
+  - guillaume-bogard
+lang: fr
+video_link: https://youtu.be/HTvll2QWqFo?t=3400
+support_link: https://github.com/gbogard/free-monads-from-scratch/blob/master/presentation.pdf
+other_links:
+  - name: Code
+    href: https://github.com/gbogard/free-monads-from-scratch

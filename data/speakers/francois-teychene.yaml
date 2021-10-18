@@ -1,0 +1,10 @@
+firstname: François
+lastname: Teychene
+main_link: https://twitter.com/fteychene
+links:
+  - name: Twitter
+    href: https://twitter.com/fteychene
+  - name: Website
+    href: https://www.fteychene.xyz/
+  - name: Github
+    href: https://github.com/fteychene

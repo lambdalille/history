@@ -1,0 +1,8 @@
+firstname: Romain
+lastname: Calascibetta
+main_link: https://twitter.com/Dinoosaure
+links:
+  - name: Twitter
+    href: https://twitter.com/Dinoosaure
+  - name: Github
+    href: https://github.com/dinosaure

@@ -1,0 +1,10 @@
+name: "λ · remote 5 : Types, tests et Free monads"
+date: "2020-09-10 18:30:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/272699399/
+talks:
+  - types-vs-tests
+  - free-monad

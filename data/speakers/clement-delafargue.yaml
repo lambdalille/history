@@ -1,0 +1,12 @@
+firstname: Clément
+lastname: Delafargue
+main_link: https://twitter.com/clementd
+links:
+  - name: Twitter
+    href: https://twitter.com/clementd
+  - name: Website
+    href: https://cltdl.fr/me
+  - name: Tech blog
+    href: https://blog.clement.delafargue.name/
+  - name: Github
+    href: https://github.com/divarvel

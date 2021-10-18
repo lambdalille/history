@@ -1,0 +1,10 @@
+name: "λ · remote 6 : Traverse & Trees That Grow"
+date: "2020-10-08 18:30:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/273574387/
+talks:
+  - traverse
+  - trees-that-grows

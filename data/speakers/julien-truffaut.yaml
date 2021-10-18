@@ -1,0 +1,10 @@
+firstname: Julien
+lastname: Truffaut
+main_link: https://twitter.com/JulienTruffaut
+links:
+  - name: Twitter
+    href: https://twitter.com/JulienTruffaut
+  - name: Website
+    href: https://www.fp-tower.com/
+  - name: Github
+    href: https://github.com/julien-truffaut

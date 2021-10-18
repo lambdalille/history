@@ -1,0 +1,6 @@
+title: Programmation par traits sous l'influence de la gestion mémoire
+speakers:
+  - didier-plaindoux
+lang: fr
+video_link: https://youtu.be/6CO98XBsNiY
+support_link: https://github.com/d-plaindoux/rust-traits

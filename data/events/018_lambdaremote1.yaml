@@ -1,0 +1,10 @@
+name: "λ · remote 1 : du Rust et du Haskell"
+date: "2020-04-09 18:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/269852942/
+talks:
+  - trait-memory
+  - haskell-video

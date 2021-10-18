@@ -1,0 +1,8 @@
+firstname: Nicolas
+lastname: François
+main_link: https://twitter.com/Koisell
+links:
+  - name: Twitter
+    href: https://twitter.com/Koisell
+  - name: Github
+    href: https://github.com/koisell

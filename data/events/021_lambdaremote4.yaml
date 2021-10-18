@@ -1,0 +1,10 @@
+name: "λ · remote 4 : ADT, GADTs et MirageOS"
+date: "2020-07-09 18:30:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/271601210/
+talks:
+  - adt-gadt
+  - mirageos

@@ -1,0 +1,8 @@
+title: "Irmin : Yet another KV database ?"
+speakers:
+  - thomas-haessle
+lang: fr
+video_link: https://youtu.be/BT2e-DkcVQo
+other_links:
+  - name: Billet de blog
+    href: https://oteku.github.io/irmin-database-reasonml/

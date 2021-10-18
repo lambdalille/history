@@ -1,0 +1,10 @@
+name: "λ · remote 2 : Effets Algébriques & Irmin Database"
+date: "2020-05-07 18:00:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/LambdaLille/events/270275826/
+talks:
+  - irmin
+  - koka-effect
