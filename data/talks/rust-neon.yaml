@@ -2,7 +2,7 @@ title: Créer vos modules natifs avec Rust - introduction à Neon-Bindings
 speakers:
   - thomas-haessle
 lang: fr
-support_link: https://raw.githubusercontent.com/lambdalille/talks/master/mirror/lillefp13-node-rust.pdf
+support_link: https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp13-node-rust.pdf
 other_links:
   - name: Billet de blog
     href: https://oteku.github.io/rust-my-node/

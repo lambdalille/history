@@ -3,7 +3,7 @@ speakers:
   - denis-merigoux
 lang: fr
 video_link: https://www.youtube.com/watch?v=vaXGgrUHtuk
-support_link: https://github.com/lambdalille/talks/blob/master/mirror/catala.pdf
+support_link: https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/catala.pdf
 other_links:
   - name: Site web de Catala
     href: https://catala-lang.org/
