@@ -14,8 +14,8 @@ opam install yocaml
 opam install yocaml_markdown yocaml_unix yocaml_jingoo yocaml_yaml
 ```
 
-There is a bit of ceremony involved in installing `Yocaml' because its
-[maintainer](https;//github.com/xhtmlboi) doesn't seem to have had the faith to
+There is a bit of ceremony involved in installing `Yocaml` because its
+[maintainer](https://github.com/xhtmlboi) doesn't seem to have had the faith to
 package it properly on OPAM. What a shame!
 
 ## Compilation
