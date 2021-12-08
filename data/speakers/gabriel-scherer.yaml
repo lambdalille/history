@@ -1,0 +1,8 @@
+firstname: Gabriel
+lastname: Scherer
+main_link: http://cambium.inria.fr/~scherer/
+links:
+  - name: Website
+    href: http://cambium.inria.fr/~scherer/
+  - name: Github
+    href: https://github.com/gasche

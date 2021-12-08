@@ -1,0 +1,10 @@
+firstname: Guillaume
+lastname: Claret
+main_link: https://twitter.com/guillaumeclaret
+links:
+  - name: Twitter
+    href: https://twitter.com/guillaumeclaret
+  - name: Website
+    href: https://foobar.land/
+  - name: Github
+    href: https://github.com/clarus

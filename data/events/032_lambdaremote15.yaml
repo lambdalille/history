@@ -1,0 +1,10 @@
+name: "λ · remote 15 : Coq, OCaml et Tezos et la recherche en langages de programmation"
+date: "2021-06-17 19:30:00"
+timezone: CET
+is_online: true
+link:
+  name: Meetup
+  href: https://www.meetup.com/fr-FR/LambdaLille/events/281374644/
+talks:
+  - coq-of-ocaml
+  - recherche-pl

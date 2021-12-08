@@ -1,0 +1,8 @@
+title: Coq-of-ocaml et Tezos, application à la vérification formelle de programmes OCaml
+speakers:
+  - guillaume-claret
+lang: fr
+support_link: https://github.com/lambdalille/mirror/blob/gh-pages/coq-of-ocaml.pdf
+other_links:
+  - name: Site web de Coq of OCaml
+    href: https://foobar-land.github.io/coq-of-ocaml/
