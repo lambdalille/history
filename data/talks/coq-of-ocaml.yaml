@@ -2,6 +2,7 @@ title: Coq-of-ocaml et Tezos, application à la vérification formelle de progra
 speakers:
   - guillaume-claret
 lang: fr
+video_link: https://www.youtube.com/watch?v=PrvLhwXJjps
 support_link: https://github.com/lambdalille/mirror/blob/gh-pages/coq-of-ocaml.pdf
 other_links:
   - name: Site web de Coq of OCaml
